@@ -45,11 +45,15 @@ button {
     border-radius: 5px;
 }
 
-#increment-btn {
-    background: darkred;
+#incrementBtn{
+    background: rgb(54, 232, 255);
+}
+
+#decrementBtn{
+    background: rgb(255, 42, 42);
 }
 
 #save-btn {
-    background: darkgreen;
+    background: rgb(55, 255, 55);
 }
 
